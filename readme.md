@@ -24,10 +24,6 @@ This project is a simple **clone of the Myntra website** built  using **HTML** a
 
 ---
 
-## Screenshots
-
-Add screenshots of your project here to showcase its design and functionality.
-
 ---
 
 ## Contribution
