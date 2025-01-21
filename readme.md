@@ -19,11 +19,16 @@ This project is a simple **clone of the Myntra website** built  using **HTML** a
     ```bash
     git clone https://github.com/SHUBBHAM-KUMARR/Myntra_clone.git
     ```
-2. Open the `index.html` file in your web browser.
-3. Explore the webpage and interact with various elements.
+2. Open project directory.
+    ```bash
+            cd: Myntra_clone
+     ``` 
+4. Open the `index.html` file in your web browser.
+5. Explore the webpage and interact with various elements.
 
 ---
-
+## Screenshot
+![Homepage Screenshot](homePage.png)
 ---
 
 ## Contribution
