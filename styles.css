@@ -1,0 +1,76 @@
+@media screen and (max-width: 768px) {
+  .header{
+    
+    width: 100%;
+  }
+  .banner-main {
+    transform: translateY(15%);
+  }
+  main {
+    padding-bottom: 50px;
+  }
+  .slack img {
+    width: 100vw;
+    height: 28vh;
+  }
+  .button-container {
+    margin: 0 auto;
+  }
+  .button-container .button {
+    width: 7px;
+    height: 7px;
+  }
+  .category h1 {
+    font-size:10px;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    margin: 20px 0 10px 20px;
+  }
+  .category ul img {
+    height: 20vh;
+    width: 100%;
+  }
+  footer {
+    margin-top:80px;
+    background: #fafbfc;
+   
+  }
+  .footer-1{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+  footer a, p{
+    text-align: center;
+  }
+ .mobile a{
+  align-items: center;
+  margin: 10px;
+ }
+.touch-links{
+  margin: 0 auto;
+}
+  
+}
+.promises{
+  padding-inline:15px;
+ 
+}
+.promises:nth-child(1){
+  margin-left: 70px;
+}
+.promises:nth-child(2){
+  margin-left: 100px;
+}
+#hr1{
+  width: 100%;
+  margin-bottom: 32px;
+  transform: translateX(0%);
+}
+.carousel-container {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
