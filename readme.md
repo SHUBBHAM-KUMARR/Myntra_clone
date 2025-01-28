@@ -17,7 +17,7 @@ This project is a simple **clone of UI of the Myntra website** built  using **HT
 
 1. Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/SHUBBHAM-KUMARR/Myntra_clone.git
+    git clone https://github.com/SHUBBHAM-KUMARR/Myntra_ui_clone.git
     ```
 2. Open project directory.
     ```bash
