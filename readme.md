@@ -21,7 +21,7 @@ This project is a simple **clone of UI of the Myntra website** built  using **HT
     ```
 2. Open project directory.
     ```bash
-            cd Myntra_clone
+            cd Myntra_ui_clone
      ``` 
 4. Open the `index.html` file in your web browser.
 5. Explore the webpage and interact with various elements.
