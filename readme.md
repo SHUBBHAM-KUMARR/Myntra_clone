@@ -1,6 +1,6 @@
-# Myntra Clone
+# Myntra UI Clone
 
-This project is a simple **clone of the Myntra website** built  using **HTML** and **CSS**. It replicates the homepage of Myntra. 
+This project is a simple **clone of UI of the Myntra website** built  using **HTML** and **CSS**. It replicates the homepage of Myntra. 
 
 ---
 
